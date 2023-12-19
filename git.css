@@ -1,4 +1,7 @@
 h1{
     text-align: center;
     margin-top: 10%;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 5px 5px 10px black;
 }
